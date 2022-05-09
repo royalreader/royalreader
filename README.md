@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @royalreader
-- 👀 I’m interested in coding, books, writing, and watching movies and shows.
+- 👀 I’m interested in coding, books, writing, and watching movies and tv.
 - 🌱 I’m currently learning python.
 
 <!---
